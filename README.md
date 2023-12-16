@@ -38,7 +38,7 @@ Current Schema Design and Identified Issues - The following outlines the design 
 4. Create indexes on columns. Indexing the columns will expedite search queries.
 5. Apply a unique constraint to the columns in the "users" table. This constraint prevents the insertion of duplicate usernames, thus maintaining data uniqueness and integrity. 
 
-![alt text](https://github.com/jwoh1323/Udiddit-SQL-Schema-Design-Project/blob/89bac256608ca4845eaa69f48f693391f35f2a10/new%20schema.png) 
+![alt text](https://github.com/jwoh1323/Udiddit-SQL-Schema-Design-Project/blob/5f6abc763b190c4ef45442f70706208e309eb51c/new%20schema.png) 
 
 
 ## Project Output
