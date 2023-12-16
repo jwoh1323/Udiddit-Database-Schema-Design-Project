@@ -1,4 +1,4 @@
-# Udiddit-SQL-Schema-Design-Project
+# Udiddit-Database-Schema-Design-Project
 
 ## Project Description
 
