@@ -10,7 +10,7 @@ Part III: Migrate the provided data
 
 ## Dataset Info
 
-bad_db.sql, which contains bad database schema that I need to revamp
+bad_db.sql: A File Containing Suboptimal Database Schema for Revamping - This file houses the existing database schema, identified as requiring comprehensive enhancements. It serves as the foundation for my project to redesign and optimize the database structure
 
 ## Languages & Tools used 
 
