@@ -10,7 +10,12 @@ Part III: Migrate the provided data
 
 ## Dataset Info
 
-bad_db.sql, which contains bad database schema
+bad_db.sql, which contains bad database schema that I need to revamp
+
+## Current Database Schema
+
+
+
 
 ## Languages & Tools used 
 
