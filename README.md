@@ -32,7 +32,13 @@ Current Schema Design and Identified Issues - The following outlines the design 
 
 ## New Database Schema
 
+1. Implement foreign key constraints in the database schema.
+2. Break down the "bad_posts" and "bad_posts" table into smaller, more focused tables. Create separate tables for 'users','topics', and 'votes', and establish relationships with the main posts table.
+3. Instead of storing multiple values in a single row, create separate tables for 'upvotes' and 'downvotes'. Each row in these tables should represent a single vote (1,-1), linked to the respective post, thereby maintaining atomicity of data.
+4. Create indexes on columns. Indexing the columns will expedite search queries.
+5. Apply a unique constraint to the columns in the "users" table. This constraint prevents the insertion of duplicate usernames, thus maintaining data uniqueness and integrity. 
 
+![alt text](https://github.com/jwoh1323/Udiddit-SQL-Schema-Design-Project/blob/5f6abc763b190c4ef45442f70706208e309eb51c/new%20schema.png) 
 
 
 ## Project Output
